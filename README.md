@@ -1,7 +1,7 @@
 <h1 align="center">📂ProductSystem</h1>
 
 <p align="center">
-  <img alt="projeto taskmanager" src="https://github.com/user-attachments/assets/872350c8-6494-4e9b-b077-b5b527b67cf1" width="40%">
+  <img alt="projeto taskmanager" src="https://github.com/user-attachments/assets/872350c8-6494-4e9b-b077-b5b527b67cf1" width="50%">
 </p>
 
 ## 🛠️ Tecnologias
